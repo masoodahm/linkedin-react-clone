@@ -17,7 +17,6 @@
 - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
 - [App functionality](#app-functionality)
-- [Live Link (Firebase)](#live-link-firebase)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Tests](#tests)
@@ -38,13 +37,9 @@
 - Logged in users can can view other peoples posts and can add their own post in the feed.
 - Users can click on avatar on the navbar to sign out.
 
-<p align="center">
+<!-- <p align="center">
     <img src="" alt="project-image" >
-</p>
-
-## Live Link (Firebase)
-
-[Project live link](https://linkedin-clone-e25d6.web.app/)
+</p> -->
 
 ### Built With
 
@@ -61,7 +56,7 @@ This project was built using these technologies.
 
 **Step 1**<br>
 Navigate through the local folder where you want to clone the repository and run<br>
-`git clone https://github.com/jstloyal/LinkedIn-clone`. It will clone the repo to your local folder.<br>
+`git clone https://github.com/masoodahm/linkedin-react-clone`. It will clone the repo to your local folder.<br>
 **Step 2**<br>
 Run `cd 
 fav-book `<br>
