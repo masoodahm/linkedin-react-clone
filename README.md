@@ -13,9 +13,14 @@
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Contributors](#contributors)
-- [Acknowledgements](#acknowledgements)
+- [Fav-Book](#fav-book)
+- [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+- [App functionality](#app-functionality)
+- [Live Link (Firebase)](#live-link-firebase)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Tests](#tests)
 - [License](#license)
 
 ### About the Project
@@ -34,7 +39,7 @@
 - Users can click on avatar on the navbar to sign out.
 
 <p align="center">
-    <img src="https://res.cloudinary.com/jstloyalty/image/upload/v1609620987/myPortfolio/hbc97p23p2cjs829lscw.png" alt="project-image" >
+    <img src="" alt="project-image" >
 </p>
 
 ## Live Link (Firebase)
@@ -79,29 +84,7 @@ Most important, enjoy the app!<br>
 
    `yarn test`
 
-
-## Contributors
-
-**Author**
-
-​**Adetayo Sunkanmi**
-
-- Github: [jstloyal](https://github.com/jstloyal)
-- Twitter: [@jstloyalty](https://twitter.com/jstloyalty)
-- Linkedin: [Adetayo Sunkanmi](https://www.linkedin.com/in/jstloyalty)
-- E-mail: jstloyalty@gmail.com
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [YouTub](https://www.youtube.org/)
-
 ## License
 
 📝
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-## Show your support
-
-If you've read this far....give us a ⭐️!
